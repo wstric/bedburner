@@ -5,6 +5,9 @@ Can be placed on the outside or inside (instead of a Nevermore Micro).
 
 Outer placement will be covered by the bed for 300 and 350 size but exposed on 250 size.
 
+Mods that lift the bed such as Whoppingpochard kinematic bed mount are highly recommended 
+to increase air flow and prevent damage to the bed heater.
+
 ## Es Ist Verboten
 
 Installation of this mod involves wiring mains AC voltage and addition of heaters without thermistor feedback. 
@@ -19,3 +22,7 @@ This mod should not be attempted without experience and caution.
 **Do NOT ask about this mod in the Voron Design Discord.**
 
 ---
+
+## Design notes
+
+* Designed to be relatively
