@@ -1,14 +1,14 @@
 # PTC Heated bed fans mod for Voron 2.4 Printers
 Installed on Voron 2.4 bed rails. 
 
-Can be placed on the outside or inside (instead of a Nevermore Micro).
+Can be placed on the outside, center or both.
 
 Outer placement will be covered by the bed for 300 and 350 size but exposed on 250 size.
 
 Mods that lift the bed such as Whoppingpochard kinematic bed mount are highly recommended 
 to increase air flow and prevent damage to the bed heater.
 
-## Es Ist Verboten
+## Es ist "verboten"
 
 :fire: :fire: :fire:
 
