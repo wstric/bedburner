@@ -10,6 +10,8 @@ to increase air flow and prevent damage to the bed heater.
 
 ## Es Ist Verboten
 
+:fire: :fire: :fire:
+
 Installation of this mod involves wiring mains AC voltage and addition of heaters without thermistor feedback. 
 
 Careful wiring and component selection can reduce the risk of injury or fire, 
