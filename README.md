@@ -30,8 +30,8 @@ This mod should not be attempted without experience and caution.
 
 ### Results
 * A twin bedburner test rig setup
-  * <img src="Pictures/test_setup_uncovered.jpg" alt="test_setup_uncovered" width="300"/>
-  * <img src="Pictures/test_setup_covered.jpg" alt="test_setup_covered.jpg" width="300"/>
+  * <img src="Pictures/test_setup_uncovered.jpg" alt="test_setup_uncovered" width="400"/>
+  * <img src="Pictures/test_setup_covered.jpg" alt="test_setup_covered.jpg" width="400"/>
   * Thermocouples were placed at the fan intake, on the block surface and at the block exhaust
   * Combined amperage was measured and recorded along with temperature readings
   * was inside an thinly insulated box with a simulated V2.4 configuration
