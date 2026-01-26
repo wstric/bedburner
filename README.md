@@ -1,9 +1,7 @@
 # PTC Heated bed fans mod for Voron 2.4 Printers
 Extra spicy _bed_ fan mod with an "after _burner_" -> BedBurner.
 
-Installed on Voron 2.4 bed rails. 
-
-Can be placed on the outside, center or both.
+Installed on Voron 2.4 bed rails. Can be placed on the outside, center or both.
 
 Outer placement will be covered by the bed for 300 and 350 size but exposed on 250 size.
 
