@@ -5,7 +5,7 @@ Installed on Voron 2.4 bed rails. Can be placed on the outside, center or both.
 
 Outer placement will be covered by the bed for 300 and 350 size but exposed on 250 size.
 
-Requires raising the bed for clearance and air flow and prevent damage to the bed heater.
+Requires raising the bed for clearance and to prevent damage to the bed heater.
 Mods like Whoppingpochard kinematic bed mount do this with other benefits.
 
 ## Es ist "verboten"
