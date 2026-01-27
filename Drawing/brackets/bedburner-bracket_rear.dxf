@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--100.9580492816273
+-21.5
  20
--26.99999999999999
+-27
  30
 0
   9
 $EXTMAX
  10
--24.70229736262729
+54.755751919
  20
-8.000000000000027
+8
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-Unfold_Sketch_bends
+Unfold_Sketch_bends001
   9
 $CELTYPE
   6
@@ -491,11 +491,11 @@ $ANGDIR
   9
 $PDMODE
  70
-   34
+   96
   9
 $PDSIZE
  40
-0
+-2
   9
 $PLINEWID
  40
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-67.29141051363297
+40.07296215486688
  22
-43.66862299112837
+13.98458406767118
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-166.6263498432816
+67.70844173327998
  41
-1.865831842576029
+1.869175627240143
  42
 50
  43
@@ -2255,7 +2255,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Unfold_Sketch001
+Unfold_Sketch002
  70
     0
  62
@@ -2277,7 +2277,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Unfold_Sketch_bends
+Unfold_Sketch_bends001
  70
     0
  62
@@ -2455,7 +2455,7 @@ Standard
  70
     0
  40
-2.5
+1
  41
 2.5
  42
@@ -2479,7 +2479,7 @@ Standard
 141
 0.09
 142
-0
+2.5
 143
 25.4
 144
@@ -2507,7 +2507,7 @@ Standard
  77
     0
  78
-    8
+    1
  79
     0
 170
@@ -2545,7 +2545,7 @@ Standard
 277
     2
 278
-   44
+    0
 279
     0
 280
@@ -2567,13 +2567,7 @@ Standard
 289
     3
 340
-STANDARD
-341
-
-371
-   -2
-372
-   -2
+4D
   0
 ENDTAB
   0
@@ -2721,7 +2715,7 @@ LINE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -2731,13 +2725,13 @@ ByLayer
 100
 AcDbLine
  10
--100.9580492816273
+47.479143742
  20
-4.000000000000028
+6.294305745
  11
--100.9580492816273
+44.21990844
  21
--1.610953290999974
+1.639635345
   0
 ARC
   5
@@ -2745,7 +2739,7 @@ ARC
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -2755,17 +2749,17 @@ ByLayer
 100
 AcDbCircle
  10
--99.4580492816273
+42.991180373
  20
--1.610953290999974
+2.5
  40
 1.5
 100
 AcDbArc
  50
-180
+-90
  51
-265.6012946450001
+-35
   0
 LINE
   5
@@ -2773,7 +2767,7 @@ LINE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -2783,21 +2777,21 @@ ByLayer
 100
 AcDbLine
  10
--99.5730940296273
+42.991180373
  20
--3.106535018999973
+1
  11
--48.95804928162729
+16.520323464
  21
--6.999999999999989
+1
   0
-LINE
+ARC
   5
 53
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -2805,15 +2799,19 @@ ByLayer
 370
    -1
 100
-AcDbLine
+AcDbCircle
  10
--48.95804928162729
+16.520323464
  20
--6.999999999999989
- 11
--48.05804928162729
- 21
--6.999999999999989
+2.5
+ 40
+1.5
+100
+AcDbArc
+ 50
+-145
+ 51
+-90
   0
 LINE
   5
@@ -2821,7 +2819,7 @@ LINE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -2831,13 +2829,13 @@ ByLayer
 100
 AcDbLine
  10
--48.05804928162729
+12.032360096
  20
--6.999999999999989
+6.294305745
  11
--44.20229736262729
+15.291595398
  21
--6.999999999999989
+1.639635345
   0
 ARC
   5
@@ -2845,7 +2843,7 @@ ARC
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -2855,17 +2853,17 @@ ByLayer
 100
 AcDbCircle
  10
--44.20229736262729
+8.755751919
  20
--8.499999999999982
+4
  40
-1.5
+4
 100
 AcDbArc
  50
-0
+35
  51
-90
+180
   0
 LINE
   5
@@ -2873,7 +2871,7 @@ LINE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -2883,21 +2881,45 @@ ByLayer
 100
 AcDbLine
  10
--42.70229736262729
+4.755751919
  20
--8.499999999999982
+1
  11
--42.7022973626273
+4.755751919
  21
--22.99999999999999
+4
   0
-ARC
+LINE
   5
 57
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4.755751919
+ 20
+1
+ 11
+-17.5
+ 21
+1
+  0
+ARC
+  5
+58
+100
+AcDbEntity
+  8
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -2907,9 +2929,61 @@ ByLayer
 100
 AcDbCircle
  10
--38.7022973626273
+-17.5
  20
--22.99999999999999
+-3
+ 40
+4
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+LINE
+  5
+59
+100
+AcDbEntity
+  8
+Unfold_Sketch002
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-21.5
+ 20
+-3
+ 11
+-21.5
+ 21
+-23
+  0
+ARC
+  5
+5A
+100
+AcDbEntity
+  8
+Unfold_Sketch002
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-17.5
+ 20
+-23
  40
 4
 100
@@ -2917,119 +2991,15 @@ AcDbArc
  50
 180
  51
-270
+-90
   0
 LINE
-  5
-58
-100
-AcDbEntity
-  8
-Unfold_Sketch001
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--28.7022973626273
- 20
--26.99999999999999
- 11
--38.7022973626273
- 21
--26.99999999999999
-  0
-ARC
-  5
-59
-100
-AcDbEntity
-  8
-Unfold_Sketch001
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
--28.7022973626273
- 20
--22.99999999999999
- 40
-4
-100
-AcDbArc
- 50
-270
- 51
-0
-  0
-LINE
-  5
-5A
-100
-AcDbEntity
-  8
-Unfold_Sketch001
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--24.70229736262729
- 20
--2.999999999999996
- 11
--24.7022973626273
- 21
--22.99999999999999
-  0
-ARC
   5
 5B
 100
 AcDbEntity
   8
-Unfold_Sketch001
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
--28.70229736262729
- 20
--2.999999999999996
- 40
-4
-100
-AcDbArc
- 50
-0
- 51
-90
-  0
-LINE
-  5
-5C
-100
-AcDbEntity
-  8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3039,13 +3009,41 @@ ByLayer
 100
 AcDbLine
  10
--50.95804928162728
+-17.5
  20
-1.000000000000011
+-27
  11
--28.70229736262728
+-7.5
  21
-1.000000000000007
+-27
+  0
+ARC
+  5
+5C
+100
+AcDbEntity
+  8
+Unfold_Sketch002
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-7.5
+ 20
+-23
+ 40
+4
+100
+AcDbArc
+ 50
+-90
+ 51
+0
   0
 LINE
   5
@@ -3053,7 +3051,7 @@ LINE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3063,13 +3061,13 @@ ByLayer
 100
 AcDbLine
  10
--50.95804928162728
+-3.5
  20
-1.000000000000011
+-8.5
  11
--50.95804928162728
+-3.5
  21
-4.000000000000011
+-23
   0
 ARC
   5
@@ -3077,7 +3075,7 @@ ARC
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3087,17 +3085,17 @@ ByLayer
 100
 AcDbCircle
  10
--54.95804928162728
+-2
  20
-4.000000000000014
+-8.5
  40
-4
+1.5
 100
 AcDbArc
  50
-0
+90
  51
-145
+180
   0
 LINE
   5
@@ -3105,7 +3103,7 @@ LINE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3115,13 +3113,13 @@ ByLayer
 100
 AcDbLine
  10
--58.23465745862728
+1.855751919
  20
-6.294305745000012
+-7
  11
--61.94177025162728
+-2
  21
-1.000000000000014
+-7
   0
 LINE
   5
@@ -3129,7 +3127,7 @@ LINE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3139,13 +3137,13 @@ ByLayer
 100
 AcDbLine
  10
--89.97432831162729
+2.755751919
  20
-1.000000000000025
+-7
  11
--61.94177025162728
+1.855751919
  21
-1.000000000000014
+-7
   0
 LINE
   5
@@ -3153,7 +3151,7 @@ LINE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3163,13 +3161,13 @@ ByLayer
 100
 AcDbLine
  10
--93.68144110462728
+53.370796667
  20
-6.294305745000025
+-3.106535019
  11
--89.97432831162729
+2.755751919
  21
-1.000000000000025
+-7
   0
 ARC
   5
@@ -3177,7 +3175,7 @@ ARC
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3187,25 +3185,25 @@ ByLayer
 100
 AcDbCircle
  10
--96.95804928162728
+53.255751919
  20
-4.000000000000027
+-1.610953291
  40
-4
+1.5
 100
 AcDbArc
  50
-35.00000000000001
+-85.601294645
  51
-180
+-0
   0
-CIRCLE
+LINE
   5
 63
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3213,21 +3211,23 @@ ByLayer
 370
    -1
 100
-AcDbCircle
+AcDbLine
  10
--96.95804928162728
+54.755751919
  20
-4.000000000000027
- 40
-1.7
+4
+ 11
+54.755751919
+ 21
+-1.610953291
   0
-CIRCLE
+ARC
   5
 64
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3237,11 +3237,17 @@ ByLayer
 100
 AcDbCircle
  10
--54.95804928162728
+50.755751919
  20
-4.000000000000014
+4
  40
-1.7
+4
+100
+AcDbArc
+ 50
+-0
+ 51
+145
   0
 CIRCLE
   5
@@ -3249,7 +3255,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3259,9 +3265,9 @@ ByLayer
 100
 AcDbCircle
  10
--33.70229736262729
+50.755751919
  20
--4.999999999999989
+4
  40
 1.7
   0
@@ -3271,7 +3277,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Unfold_Sketch001
+Unfold_Sketch002
   6
 ByLayer
  62
@@ -3281,7 +3287,51 @@ ByLayer
 100
 AcDbCircle
  10
--33.70229736262729
+8.755751919
+ 20
+4
+ 40
+1.7
+  0
+CIRCLE
+  5
+67
+100
+AcDbEntity
+  8
+Unfold_Sketch002
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-12.5
+ 20
+-5
+ 40
+1.7
+  0
+CIRCLE
+  5
+68
+100
+AcDbEntity
+  8
+Unfold_Sketch002
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+-12.5
  20
 -22
  40
@@ -3289,11 +3339,11 @@ AcDbCircle
   0
 LINE
   5
-67
+69
 100
 AcDbEntity
   8
-Unfold_Sketch_bends
+Unfold_Sketch_bends001
   6
 ByLayer
  62
@@ -3303,13 +3353,13 @@ ByLayer
 100
 AcDbLine
  10
--46.29271932562728
+0.090421944
  20
-1.000000000000011
+1
  11
--46.29271932562729
+0.090421944
  21
--6.999999999999989
+-7
   0
 ENDSEC
   0
@@ -3343,7 +3393,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-68
+6A
 100
 AcDbPlotSettings
   6
