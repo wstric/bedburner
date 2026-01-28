@@ -42,7 +42,8 @@ This mod should not be attempted without experience and caution.
   * Stock panels and doors, stock exhaust, no blanket or insulation.
   * Nevermore micro v6 recirculating and exaust fan off.
   * Heatsoaking bed at 105C and 100% BedBurner.
-  * Chamber temperature reached stable 65C.
+  * Chamber temperature reached stable 65C. 
+  * Measured at gantry rear extrusion with toolhead centered and 120mm over bed
 
 ## Parts List
 * Machined heater block
