@@ -3,7 +3,7 @@
 * Heater block
   * Heatsink - 50mm x 50mm x 20mm
   * Machined with component pockets and tapped holes.
-  * For best results use a CNC Mill.
+  * For best results use a CNC mill.
   * Can be machined with hand tools if you have the resolve.
     * 3D printable guides and templates provided.
     * Drill guide uses 2.0mm bit. Step up to 2.5mm bit for M3 tap.
@@ -14,7 +14,7 @@
     * Prototype set was made with hand tools. It was painful.
 
 * Mouting bracket
-  * Cut and bend in 16ga steel using the DXF files.
+  * Cut and bend in 16ga mild steel using the DXF in [Drawings](/Drawings)
   * Mirror pairs can be made using bend up and bend down.
   * Prototype set made with SendCutSend.
 
