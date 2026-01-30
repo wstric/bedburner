@@ -10,7 +10,7 @@
     * Drill guide uses 2.0mm bit. Step up to 2.5mm bit for M3 tap.
     * Have multiple drill bits. You will break multiple.
     * Have multiple M3 start & end taps. You will likely break one.
-    * Drill/tap depth is 4mm
+    * Drill/tap depth is 4.5mm
     * Use a 5/16" OD Router bushing for router templates
     * Prototype set was made with hand tools. It was painful.
 
@@ -39,7 +39,7 @@
   * operation temperature should be higher than PTC or Thermal switch rating.
 
 * Fan duct
-  * [STLs](/STL/fan_duct).
+  * [STLs](/STL/fan_duct) provided.
   * Typical voron print settings.
   * 2 x printed screw diam spacers are optional.
 
