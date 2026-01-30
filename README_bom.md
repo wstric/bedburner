@@ -4,8 +4,10 @@
   * Heatsink - 50mm x 50mm x 20mm
   * Machined with component pockets and tapped holes.
   * For best results use a CNC mill.
+    * STEP is provided in [CAD](/CAD)
+    * DXF is provided in [Drawing](/Drawing/block)
   * Can be machined with hand tools if you have the resolve.
-    * 3D printable guides and templates provided.
+    * 3D printable guides and templates provided [STLs](/STL/templates).
     * Drill guide uses 2.0mm bit. Step up to 2.5mm bit for M3 tap.
     * Have multiple drill bits. You will break multiple.
     * Have multiple M3 start & end taps. You will likely break one.
@@ -14,7 +16,7 @@
     * Prototype set was made with hand tools. It was painful.
 
 * Mouting bracket
-  * Cut and bend in 16ga mild steel using the DXF in [Drawings](/Drawings)
+  * Cut and bend in 16ga mild steel using the DXF in [Drawing](/Drawing/bracket)
   * Mirror pairs can be made using bend up and bend down.
   * Prototype set made with SendCutSend.
 
