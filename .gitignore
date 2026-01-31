@@ -1,2 +1,6 @@
+# Project temp files
 *.FCBak
 *.dxf~
+
+# Other temp files
+*.kate-swp

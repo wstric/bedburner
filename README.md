@@ -59,4 +59,4 @@ This mod should not be attempted without experience and caution.
 
 ### [Assembly](./README_assembly.md) __WIP__
 
-### [Configuration](./README_config.md) __WIP__
+### [Configuration](./README_config.md)
