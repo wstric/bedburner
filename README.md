@@ -8,17 +8,16 @@ Outer placement will be covered by the bed for 300 and 350 size but exposed on 2
 Requires raising the bed for clearance and to prevent damage to the bed heater.
 Mods like Whoppingpochard kinematic bed mount do this with other benefits.
 
-## Es ist "verboten"
-
 :fire: :fire: :fire:
 
-Installation of this mod involves wiring mains AC voltage and addition of heaters without thermistor feedback. 
+> [!CAUTION]
+> Installation of this mod involves wiring mains AC voltage and addition of heaters without thermistor feedback. 
+> 
+> Careful wiring and component selection can reduce the risk of injury or fire, 
+> but only similar to the existing components of a v2.4 but never zero.
 
-Careful wiring and component selection can reduce the risk of injury or fire, 
-but only similar to the existing components of a v2.4 but never zero.
-
-This mod should not be attempted without experience and caution.
-I am not responsible for any resulting damage or harm.
+> This mod should not be attempted without experience and caution.
+> I am not responsible for any resulting damage or harm.
 
 :fire: :fire: :fire:
 
