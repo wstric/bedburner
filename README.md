@@ -24,8 +24,6 @@ Mods like Whoppingpochard kinematic bed mount do this with other benefits.
 
 :fire: :fire: :fire:
 
----
-
 ## Design (WIP)
 * The 
 
