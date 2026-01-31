@@ -59,3 +59,7 @@ Mods like Whoppingpochard kinematic bed mount do this with other benefits.
 ### [Assembly](./README_assembly.md) __WIP__
 
 ### [Configuration](./README_config.md)
+
+---
+
+Special thanks to the Fabreeko discord and Delmar for tolerating these shenanigans. 
