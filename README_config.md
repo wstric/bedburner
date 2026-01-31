@@ -21,7 +21,7 @@ Some limitations you might need to work around include:
 Provided example barely tested in Kalico v0.12 but provides control of
 chamber heater & fan, filter and exhaust.
 
-[klipper control example config](/Firmware/klipper/klipper_control)
+#### [klipper control example config](/Firmware/klipper/klipper_control)
 
 ## Custom Control Solution
 Custom control gives a lot of freedom to customize how it behaves.
@@ -37,7 +37,7 @@ but this is quite suitable for chamber temperature regulation.
 Provided example was extensively tested in Klipper v0.12 and provides control of
 chamber heater & fan, filter and exhaust.
 
-[custom control example config](/Firmware/klipper/custom_control)
+#### [custom control example config](/Firmware/klipper/custom_control)
 
 ---
 

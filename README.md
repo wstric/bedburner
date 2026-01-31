@@ -18,6 +18,7 @@ Careful wiring and component selection can reduce the risk of injury or fire,
 but only similar to the existing components of a v2.4 but never zero.
 
 This mod should not be attempted without experience and caution.
+I am not responsible for any resulting damage or harm.
 
 :fire: :fire: :fire:
 
