@@ -23,6 +23,7 @@ Mods like Whoppingpochard kinematic bed mount do this with other benefits.
 > Do NOT ask about this mod in the Voron Design Discord.
 
 :fire: :fire: :fire:
+
 ---
 
 ## Design (WIP)
