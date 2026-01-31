@@ -4,7 +4,7 @@ Klipper does not make chamber heaters easy.
 They are, in effect, modeled as bed heaters which causes complications in most configurations.
 The two main paths for configuring are to work around the Klipper or implement custom control.
 
-## Standard Klipper Solution
+## Klipper Control Solution
 
 Klipper control gets hacky, but has the advantage of being controlled in real time.
 It is always running and will not be blocked by the command queue.
@@ -20,6 +20,7 @@ Some limitations you might need to work around include:
 
 Provided example barely tested in Kalico v0.12 but provides control of
 chamber heater & fan, filter and exhaust.
+
 [klipper control example config](/Firmware/klipper/klipper_control)
 
 ## Custom Control Solution
@@ -35,6 +36,7 @@ but this is quite suitable for chamber temperature regulation.
 
 Provided example was extensively tested in Klipper v0.12 and provides control of
 chamber heater & fan, filter and exhaust.
+
 [custom control example config](/Firmware/klipper/custom_control)
 
 ---
