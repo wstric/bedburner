@@ -15,14 +15,14 @@ Mods like Whoppingpochard kinematic bed mount do this with other benefits.
 > 
 > Careful wiring and component selection can reduce the risk of injury or fire, 
 > but only similar to the existing components of a v2.4 but never zero.
-
+>
 > This mod should not be attempted without experience and caution.
 > I am not responsible for any resulting damage or harm.
 
+> [!Warning]
+> Do NOT ask about this mod in the Voron Design Discord.**
+
 :fire: :fire: :fire:
-
-**Do NOT ask about this mod in the Voron Design Discord.**
-
 ---
 
 ## Design (WIP)
