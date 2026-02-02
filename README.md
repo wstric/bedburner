@@ -35,9 +35,9 @@ existing setups were simply too bulky and had to mounted in the open or be in th
 existing components.
 
 After much research and trying to make hotend cartridge heater work I found the aluminum shell
-PTC heater form factor. While lacking in surface area it is very compact, electrically
-isolated and could be easily mounted heatsink. Balancing space, thermal out, and availability
-lead to 35mm x 20mm x 5mm nominal size PTC and 50mm x 50mm x 20mm. This left enough space for
+PTC heater form factor. While lacking in surface area it is very compact, electrically isolated
+and could be easily mounted heatsink. Balancing space, thermal out, and availability lead to
+35mm x 20mm x 5mm nominal size PTC and 50mm x 50mm x 20mm heatsink. This left enough space for
 safety features such as a thermal switch as a fail safe and further cap the maximum temperature.
 
 Modifying the off the shelf heatsink ending up being one of the most challenging part. While
