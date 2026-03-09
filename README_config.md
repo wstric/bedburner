@@ -18,7 +18,7 @@ Some limitations you might need to work around include:
   * Nether heater_fan or controller_fan can cycle off except during cool down.
   * If you have one chamber termistor, duplicate pin validation.
 
-Provided example barely tested in Kalico v0.12 but provides control of
+Provided example was extensively tested in Kalico v0.12 and provides control of
 chamber heater & fan, filter and exhaust.
 
 #### [klipper control example config](/Firmware/klipper/klipper_control)
