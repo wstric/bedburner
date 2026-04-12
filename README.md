@@ -50,7 +50,7 @@ components in pockets strapped in with screws was necessary for safety.
 The resulting setup ended being a little too tall for a stock V2.4 bed spacers. This wasn't an
 issue since the Whooping kinematic bed mod already gave plenty of height. Using 5015 radial
 blower fan and matching ducts; two units could be fit in between the bed extrusions and
-another two could be hidden under a 300mm bed on the outside.
+another two could be hidden under a 300mm or 350mm bed on the outside.
 
 ### Results
 * Twin BedBurner test rig setup:
