@@ -73,7 +73,8 @@ another two could be hidden under a 300mm or 350mm bed on the outside.
 ## Parts List
 * Machined heater block
 * Cut and bent bracket and straps
-* PTC heater and thermal switch
+* PTC heater
+* thermal failsafe (thermal switch / thermal fuse / thermistor)
 * 5015 radial (blower) fan
 * 3D printed fan duct
 * Assorted M3 hardware
@@ -81,6 +82,8 @@ another two could be hidden under a 300mm or 350mm bed on the outside.
 ### [Detailed BOM](./README_bom.md)
 
 ## Instructions
+
+### [Fabrication](./README_fabrication.md)
 
 ### [Assembly](./README_assembly.md)
 
