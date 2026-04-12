@@ -30,9 +30,9 @@ The goal of this mod was to create a minium height chamber heater for the Voron 
 could slip into the unused space under the bed and provide enough thermal output to match
 the extruder. This would allow the printer to more easily heatsoak at the same temperatures
 that would be reached during printing. More active chamber temperature control was a bonus
-and a slight increase in temperatures was welcome. While typically much more powerful,
-existing setups were simply too bulky and had to mounted in the open or be in the way of
-existing components.
+and a slight increase in temperatures was welcome. Other heaters setups can be off-the-shelf
+and more off-the-shelf and provide much more power. However, they were simply too bulky
+and had to mounted in the open or be in the way of existing components.
 
 After much research and trying to make hotend cartridge heater work I found the aluminum shell
 PTC heater form factor. While lacking in surface area it is very compact, electrically isolated
@@ -82,7 +82,7 @@ be hidden under a 300mm bed on the outside.
 
 ## Instructions
 
-### [Assembly](./README_assembly.md) __WIP__
+### [Assembly](./README_assembly.md)
 
 ### [Configuration](./README_config.md)
 
