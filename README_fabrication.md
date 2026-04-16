@@ -1,4 +1,4 @@
-# BedBurner Assembly Instructions
+# BedBurner Fabrication Instructions
 
 ## Heater Heatsink
 
@@ -22,6 +22,9 @@ Technical drawings are provided for clarity in [/Drawing/block](/Drawing/block).
 It is unlikely to be cost effective have the block machined from raw stock and
 commercial services are unlikely start from a purchased heatsink.
 The best option if you have a CNC mill or "a friend with a CNC mill".
+
+CAM results were very good drilling, thread milling and then making the pockets with a 3mm end mill
+<img src="Pictures/fc_cam1.png" alt="Freecad CAM project" width="350"/>
 
 Files are provided as [STEP](/CAD) or [DXF](/Drawing/block).
 
