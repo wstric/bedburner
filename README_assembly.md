@@ -22,19 +22,19 @@ Steps will vary slightly based on choice of components.
    * add temperature rated thermal grease if desired.
 2. Place PTC strap diagonally across the PTC and secure with two M3 x 8mm screws.
 3. Install thermal safefy component.
-  * Thermal Switch / Thermal Fuse:
-    1. Place thermal switch body into the smaller heatsink pocket
-        * recommended to orient wires facing the same side as the PTC heater
-        * add temperature rated thermal grease if desired.
-    2. Place thermal switch strap diagonally across the thermal switch and secure with two M3 x 8mm screws.
-  * Thermal Fuse:
-    1. Place thermal switch body into the smaller heatsink pocket
-        * recommended to orient wires facing the same side as the PTC heater
-        * add temperature rated thermal grease if desired.
-    2. Secure thermal fuse to heatsink with one M3 x 8mm screw through mouting hole
-  * Thermistor:
-    1. Thread Thermistor into any unused threaded holes in the heatsink.
-        * recommended to use central but accessible holes like those for thermal fuse mounting.
+    * Thermal Switch / Thermal Fuse:
+      1. Place thermal switch body into the smaller heatsink pocket
+          * recommended to orient wires facing the same side as the PTC heater
+          * add temperature rated thermal grease if desired.
+      2. Place thermal switch strap diagonally across the thermal switch and secure with two M3 x 8mm screws.
+    * Thermal Fuse:
+      1. Place thermal switch body into the smaller heatsink pocket
+          * recommended to orient wires facing the same side as the PTC heater
+          * add temperature rated thermal grease if desired.
+      2. Secure thermal fuse to heatsink with one M3 x 8mm screw through mouting hole
+    * Thermistor:
+      1. Thread Thermistor into any unused threaded holes in the heatsink.
+          * recommended to use central but accessible holes like those for thermal fuse mounting.
 
 ## Fan Duct
 
